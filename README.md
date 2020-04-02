@@ -17,6 +17,7 @@ I’m asking for anyone nearby with a 3D printer who would like to volunteer to 
 by printing the face shield frame, and maybe even assembling the transparency too. 
 
 Here's how the Face Shields look in action:
+
 ![nurses-with-shields](images/3Nurses-FaceShield.png)
 
 We tried a number of different designs, and this one was the best balance of functionality and ease of production.
