@@ -30,14 +30,16 @@ To let you know what to expect, the frame takes about 1 hour, 34 minutes to prin
 [Prusa](https://www.prusa3d.com) MK3 printer.
 Whatever filament you have handy is fine. I've been using PETG.
 
-The transparency is a sheet (purchased from Staples): 
-[Apollo Write-On Transparency Film](https://www.staples.com/Apollo-Write-On-Transparency-Film-Clear-8-1-2-W-x-11-H-100-Box/product_829333)
-WO100C-B
-8.5 x 11 in
-Write-On Transparency Film
-100 sheets
+The transparency is a sheet (purchased from Staples):
+ 
+* | [Apollo Write-On Transparency Film](https://www.staples.com/Apollo-Write-On-Transparency-Film-Clear-8-1-2-W-x-11-H-100-Box/product_829333) |
+  |----------|
+  | WO100C-B |
+  | 8.5 x 11 in |
+  | Write-On Transparency Film |
+  | 100 sheets |
 
-Please share other sources if you know of any.
+  Please share other sources if you know of any.
 
 Learnings
 ---------
