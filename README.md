@@ -24,7 +24,7 @@ We tried a number of different designs, and this one was the best balance of fun
 
 I’m using the [US Three Hole Punch](stl/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) version (mostly because I own a 3 hole punch).
 
-Original design files are from here: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
+Original design files are by [Erik Cederberg](https://www.youmagine.com/erikcederb) from here: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
 
 To let you know what to expect, the frame takes about 1 hour, 34 minutes to print on my 
 [Prusa](https://www.prusa3d.com) MK3 printer.
