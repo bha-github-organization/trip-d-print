@@ -8,7 +8,7 @@ Please share your own experiences and suggestions for improvement.
 
 This is an Open Source project (shared under [Apache License, v2](LICENSE.txt)), so use what 
 you find here as you see fit, but please do take the time to improve this site by creating 
-[Issues](issues) or better yet: [Pull Requests](pulls). 
+[Issues](https://github.com/bha-github-organization/trip-d-print/issues) or better yet: [Pull Requests](https://github.com/bha-github-organization/trip-d-print/pulls). 
 
 ---------
 I’ve been working with local nurses who are helping people at Capital Health (Pennington, NJ) and at the Mercer County Covid-19
@@ -44,7 +44,7 @@ Learnings
 Mike S has been taking this up a notch: He is moving the local high school printers to the
 First Aid squad, where the EMTs will start churning out these face shields. Mike also had a great comment: 
 "Have you tried 'nesting' the frames so you can get more than one frame per print?". Doh! Well no, I hadn't.
-If anyone can create a nested .stl file, please share it (if you beat Mike to it)! See: Issue #1
+If anyone can create a nested .stl file, please share it (if you beat Mike to it)! See: Issue#1
 
 Kasia mentioned using UV to sterilize the frames, so they could be reusable!
 
