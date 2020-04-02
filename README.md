@@ -41,11 +41,12 @@ Please share other sources if you know of any.
 Learnings
 ---------
 
-Mike S has been taking this up a notch: He is moving the local high school printers to the
+* Mike S is taking this up a notch: He is moving the local High School's printers to the
 First Aid squad, where the EMTs will start churning out these face shields. Mike also had a great comment: 
 "Have you tried 'nesting' the frames so you can get more than one frame per print?". Doh! Well no, I hadn't.
-If anyone can create a nested .stl file, please share it (if you beat Mike to it)! See: Issue#1
+If anyone can create a nested .stl file, please share it here (if you beat Mike to it)! See: [Issue #1](https://github.com/bha-github-organization/trip-d-print/issues/1)
 
-Kasia mentioned using UV to sterilize the frames, so they could be reusable!
+* Kasia Q mentioned using UV to sterilize the frames, so they could be reusable!
 
-Calling all 3D Printers - Let's help the nurses!
+* To help monitor print job progress, I setup [Octoprint](https://octoprint.org) on a [Raspberryp Pi 4](https://www.raspberrypi.org)
+ using [these steps](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspbian/2337).
