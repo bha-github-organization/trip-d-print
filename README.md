@@ -24,6 +24,14 @@ We tried a number of different designs, and this one was the best balance of fun
 
 I’m using the [US Three Hole Punch](stl/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) version (mostly because I own a 3 hole punch).
 
+There is another "nested" file that prints 2 frames at once. We've tested the files below in the [stl](./stl) folder:
+
+  | File | Frames Per Print | Print Time |
+  |------|------------------|------------|
+  | [US Three Hole Punch](stl/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hours, 34 minutes |
+  | [US Three Hole Punch x 2](stl/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes |
+  | [Big Plate US Three Hole Punch X 2](stl/Lulzbot_Taz6_2FaceShields.stl) | 2 | Lulzbot:  |
+
 Original design files are by [Erik Cederberg](https://www.youmagine.com/erikcederb) from here: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
 
 To let you know what to expect, the frame takes about 1 hour, 34 minutes to print on my 
@@ -53,7 +61,7 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
     has two frames. 
     
   - Another nested file that fits on a smaller plate, like my Prusa MK3: [Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl](stl/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl).
-    Please wait before using this file - I'm still testing the total print time.
+    Print time: Prusa MK3: 3 hours, 4 minutes
 
 * Kasia Q mentioned using UV to sterilize the frames, so they could be reusable!
 
