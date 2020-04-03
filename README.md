@@ -48,6 +48,11 @@ Learnings
 First Aid squad, where the EMTs will start churning out these face shields. Mike also had a great comment: 
 "Have you tried 'nesting' the frames so you can get more than one frame per print?". Doh! Well no, I hadn't.
 If anyone can create a nested .stl file, please share it here (if you beat Mike to it)! See: [Issue #1](https://github.com/bha-github-organization/trip-d-print/issues/1)
+ 
+  - @Sulliv26 wins! His nested file is here: [Lulzbot_Taz6_2FaceShields.stl](stl/Lulzbot_Taz6_2FaceShields.stl) It 
+    has two frames. 
+    
+  - I'm also working on another .stl that can nest two frames (on my smaller plate).
 
 * Kasia Q mentioned using UV to sterilize the frames, so they could be reusable!
 
