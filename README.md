@@ -52,7 +52,7 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
   - @Sulliv26 wins! His nested file is here: [Lulzbot_Taz6_2FaceShields.stl](stl/Lulzbot_Taz6_2FaceShields.stl) It 
     has two frames. 
     
-  - I'm also working on another .stl that can nest two frames (on my smaller plate).
+  - Another nested file that fits on a smaller plate, like my Prusa MK3: [Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl](stl/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl).
 
 * Kasia Q mentioned using UV to sterilize the frames, so they could be reusable!
 
