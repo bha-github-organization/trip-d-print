@@ -2,7 +2,7 @@
 =======================
 
 This site provides information on how to 3D print Face Shields.
-The goal is to use the simplest design that will work is relatively fast and easy to build.
+The goal is to use the simplest design that will work, and is relatively fast and easy to build.
 
 Please share your own experiences and suggestions for improvement. 
 
