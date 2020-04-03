@@ -53,6 +53,7 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
     has two frames. 
     
   - Another nested file that fits on a smaller plate, like my Prusa MK3: [Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl](stl/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl).
+    Please wait before using this file - I'm still testing the total print time.
 
 * Kasia Q mentioned using UV to sterilize the frames, so they could be reusable!
 
