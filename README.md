@@ -28,7 +28,7 @@ There is another "nested" file that prints 2 frames at once. We've tested the fi
 
   | File | Frames Per Print | Print Time |
   |------|------------------|------------|
-  | [US Three Hole Punch](stl/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hours, 34 minutes |
+  | [US Three Hole Punch](stl/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hour, 34 minutes |
   | [US Three Hole Punch x 2](stl/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes |
   | [Big Plate US Three Hole Punch X 2](stl/Lulzbot_Taz6_2FaceShields.stl) | 2 | Lulzbot:  |
 
