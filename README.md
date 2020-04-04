@@ -29,7 +29,7 @@ There is another "nested" file that prints 2 frames at once. We've tested the fi
   | File | Frames Per Print | Print Time |
   |------|------------------|------------|
   | [US Three Hole Punch](stl/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hour, 34 minutes |
-  | [US Three Hole Punch x 2](stl/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes<br>Lulzbot: 1 hours, 53 minutes |
+  | [US Three Hole Punch x 2](stl/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes<br>Lulzbot: 1 hour, 53 minutes |
   | [Big Plate US Three Hole Punch X 2](stl/Lulzbot_Taz6_2FaceShields.stl) | 2 | Lulzbot: 2 hours, 10 minutes |
 
 Original design files are by [Erik Cederberg](https://www.youmagine.com/erikcederb) from here: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
@@ -69,3 +69,7 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
  using [these steps](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspbian/2337).
 
 * [Ventilator Splitter](http://ventsplitter.org) - Jason S is producing these. I'm trying to gather more info.
+
+
+Thanks for reading this far.
+Dan Rollo
