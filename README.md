@@ -1,10 +1,7 @@
 [Face Shield](#3d-printed-face-shields), [Face Mask Holder](#3d-printed-face-mask-holder) 
 =========================
 
-3D Printed Face Shields
------------------------
-
-This site provides information on how to 3D print Face Shields.
+This site provides information on how to 3D print various COVID-19 related protective items.
 The goal is to use the simplest design that will work, and is relatively fast and easy to build.
 
 Please share your own experiences and suggestions for improvement. 
@@ -14,6 +11,10 @@ you find here as you see fit, but please do take the time to improve this site b
 [Issues](https://github.com/bha-github-organization/trip-d-print/issues) or better yet: [Pull Requests](https://github.com/bha-github-organization/trip-d-print/pulls). 
 
 ---------
+
+3D Printed Face Shields
+-----------------------
+
 I’ve been working with local nurses who are helping people at Capital Health (Pennington, NJ) and at the Mercer County Covid-19
 Testing center. They’ve been using 3D printed face shields that are very simple to print and assemble.
 I’m asking for anyone nearby with a 3D printer who would like to volunteer to please help in this effort 
@@ -73,6 +74,7 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
 
 * [Ventilator Splitter](http://ventsplitter.org) - Jason S is producing these. I'm trying to gather more info.
 
+---------
 
 3D Printed Face Mask Holder
 ---------------------------
