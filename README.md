@@ -93,7 +93,7 @@ I'll add some print time stats later.
   |------|-----------------|------------|
   | [Face_mask_holder_v1](stl/mask-holder-buckle/Face_mask_holder_v1.stl) | 1 | Prusa MK3: 33 minutes |
   | [7_Face_mask_holder_v1_Prusa](stl/mask-holder-buckle/7_Face_mask_holder_v1_Prusa.stl) | 7 | Prusa MK3: 3 hours, 20 minutes |
-  | [85p_7_Face_mask_holder_v1_Prusa](stl/mask-holder-buckle/85p_7_Face_mask_holder_v1_Prusa.stl) | 7 | Prusa MK3:  |
+  | [85p_7_Face_mask_holder_v1_Prusa](stl/mask-holder-buckle/85p_7_Face_mask_holder_v1_Prusa.stl) | 7 | Prusa MK3: 2 hours, 14 minutes |
     
 Notice the third file above (with 7 holders) is scaled down to 85% of the original size. We had feedback that the 
 full-sized version of the model is too big for many people. Information sharing works!    
