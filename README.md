@@ -92,7 +92,7 @@ I'll add some print time stats later.
   | File | Items Per Print | Print Time |
   |------|-----------------|------------|
   | [Face_mask_holder_v1](stl/mask-holder-buckle/Face_mask_holder_v1.stl) | 1 | Prusa MK3: |
-  | [7_Face_mask_holder_v1_Prusa](stl/mask-holder-buckle/7_Face_mask_holder_v1_Prusa.stl) | 7 | Prusa MK3: |
+  | [7_Face_mask_holder_v1_Prusa](stl/mask-holder-buckle/7_Face_mask_holder_v1_Prusa.stl) | 7 | Prusa MK3: 3 hours, 20 minutes|
     
     
 Thanks for reading this far.
