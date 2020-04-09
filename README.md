@@ -1,4 +1,4 @@
-[Face Shield](#3d-printed-face-shields), [Face Mask Holder](#3d-printed-mask-strap-buckle) 
+[Face Shield](#3d-printed-face-shields), [Face Mask Holder](#3d-printed-face-mask-holder) 
 =========================
 
 3D Printed Face Shields
@@ -74,8 +74,8 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
 * [Ventilator Splitter](http://ventsplitter.org) - Jason S is producing these. I'm trying to gather more info.
 
 
-3D Printed Mask Holder Buckle
------------------------------
+3D Printed Face Mask Holder
+---------------------------
 I've recently been asked to print a mask strap holder instead of the face shields.
 
 Thanks to [Nicholas Madori](https://www.thingiverse.com/namadori/about) for sharing this design.
