@@ -1,4 +1,4 @@
-[Face Shield](3d-printed-face-shields), [Face Mask Holder](3d-printed-mask-strap-buckle) 
+[Face Shield](#3d-printed-face-shields), [Face Mask Holder](#3d-printed-mask-strap-buckle) 
 =========================
 
 3D Printed Face Shields
