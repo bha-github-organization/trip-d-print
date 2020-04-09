@@ -79,7 +79,6 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
 I've recently been asked to print a mask strap holder instead of the face shields.
 
 Thanks to [Nicholas Madori](https://www.thingiverse.com/namadori/about) for sharing this design.
-
 The original design is available here:  [Face mask holder](https://www.thingiverse.com/thing:4218199/files)
 
 The original single buckle file is here: [Face_mask_holder_v1](stl/mask-holder-buckle/Face_mask_holder_v1.stl)
