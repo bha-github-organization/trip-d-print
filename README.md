@@ -30,8 +30,8 @@ I’m using the [US Three Hole Punch](stl/face-shield/Visor_Frame_NORTH_AMERICA_
 
 There is another "nested" file that prints 2 frames at once. We've tested the files below in the [stl](./stl) folder:
 
-  | File | Frames Per Print | Print Time |
-  |------|------------------|------------|
+  | File | Items Per Print | Print Time |
+  |------|-----------------|------------|
   | [US Three Hole Punch](stl/face-shield/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hour, 34 minutes |
   | [US Three Hole Punch x 2](stl/face-shield/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes<br>Lulzbot: 1 hour, 53 minutes |
   | [Big Plate US Three Hole Punch X 2](stl/face-shield/Lulzbot_Taz6_2FaceShields.stl) | 2 | Lulzbot: 2 hours, 10 minutes |
@@ -89,6 +89,11 @@ Here's an .stl that fits 7 of these on a Prusa MK3 printer: [7_Face_mask_holder_
 
 I'll add some print time stats later.
 
-
+  | File | Items Per Print | Print Time |
+  |------|-----------------|------------|
+  | [Face_mask_holder_v1](stl/mask-holder-buckle/Face_mask_holder_v1.stl) | 1 | Prusa MK3: |
+  | [7_Face_mask_holder_v1_Prusa](stl/mask-holder-buckle/7_Face_mask_holder_v1_Prusa.stl) | 7 | Prusa MK3: |
+    
+    
 Thanks for reading this far.
 Dan Rollo
