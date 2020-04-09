@@ -52,8 +52,8 @@ The transparency is a sheet (purchased from Staples):
 
   Please share other sources if you know of any.
 
-Learnings
----------
+####Learnings
+
 
 * Mike S is taking this up a notch: He is moving the local High School's printers to the
 First Aid squad, where the EMTs will start churning out these face shields. Mike also had a great comment: 
