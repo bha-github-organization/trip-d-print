@@ -91,8 +91,6 @@ The original single buckle file is here: [Face_mask_holder_v1](stl/mask-holder-b
 
 Here's an .stl that fits 7 of these on a Prusa MK3 printer: [7_Face_mask_holder_v1_Prusa](stl/mask-holder-buckle/7_Face_mask_holder_v1_Prusa.stl)
 
-I'll add some print time stats later.
-
   | File | Items Per Print | Print Time |
   |------|-----------------|------------|
   | [Face_mask_holder_v1](stl/mask-holder-buckle/Face_mask_holder_v1.stl) | 1 | Prusa MK3: 33 minutes |
