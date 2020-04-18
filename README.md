@@ -78,7 +78,7 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
 
 3D Printed Face Mask Holder
 ---------------------------
-I've recently been asked to print a mask strap holder instead of the face shields.
+Nurses have asked for a mask strap holder, to ease ear fatigue. Canadian colleagues recommended the design below. 
 
 Here's how the Mask Holder looks in action:
 
