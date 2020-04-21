@@ -74,6 +74,14 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
 
 * [Ventilator Splitter](http://ventsplitter.org) - Jason S is producing these. I'm trying to gather more info.
 
+* [Various PPE Gear](https://3dprint.nih.gov/collections/covid-19-response) - Matthew B shared this link. These are CDC
+  approved designs. I'm going to experiment with the 6 hole design using this tip:
+  
+    *Set the end stop on the 3 hole punch to 10 inch size (basically, 1/2" away from the normal centered location) 
+    then punch once, flip, and punch again to get the right pattern.*
+    
+    I'll report back here with my findings.
+  
 ---------
 
 3D Printed Face Mask Holder
