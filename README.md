@@ -26,15 +26,15 @@ Here's how the Face Shields look in action:
 
 We tried a number of different designs, and this one was the best balance of functionality and ease of production.
 
-I’m using the [US Three Hole Punch](stl/face-shield/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) version (mostly because I own a 3 hole punch).
+I’m using the [US Three Hole Punch](stl/face-shield/3-hole/version-2/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) version (mostly because I own a 3 hole punch).
 
 There is another "nested" file that prints 2 frames at once. We've tested the files below in the [stl](./stl) folder:
 
   | File | Items Per Print | Print Time |
   |------|-----------------|------------|
-  | [US Three Hole Punch](stl/face-shield/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hour, 34 minutes |
-  | [US Three Hole Punch x 2](stl/face-shield/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes<br>Lulzbot: 1 hour, 53 minutes |
-  | [Big Plate US Three Hole Punch X 2](stl/face-shield/Lulzbot_Taz6_2FaceShields.stl) | 2 | Lulzbot: 2 hours, 10 minutes |
+  | [US Three Hole Punch](stl/face-shield/3-hole/version-2/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hour, 34 minutes |
+  | [US Three Hole Punch x 2](stl/face-shield/3-hole/version-2/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes<br>Lulzbot: 1 hour, 53 minutes |
+  | [Big Plate US Three Hole Punch X 2](stl/face-shield/3-hole/version-2/Lulzbot_Taz6_2FaceShields.stl) | 2 | Lulzbot: 2 hours, 10 minutes |
 
 Original design files are by [Erik Cederberg](https://www.youmagine.com/erikcederb) from here: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
 
@@ -61,10 +61,10 @@ First Aid squad, where the EMTs will start churning out these face shields. Mike
 "Have you tried 'nesting' the frames so you can get more than one frame per print?". Doh! Well no, I hadn't.
 If anyone can create a nested .stl file, please share it here (if you beat Mike to it)! See: [Issue #1](https://github.com/bha-github-organization/trip-d-print/issues/1)
  
-  - @Sulliv26 wins! His nested file is here: [Lulzbot_Taz6_2FaceShields.stl](stl/face-shield/Lulzbot_Taz6_2FaceShields.stl) It 
+  - @Sulliv26 wins! His nested file is here: [Lulzbot_Taz6_2FaceShields.stl](stl/face-shield/3-hole/version-2/Lulzbot_Taz6_2FaceShields.stl) It 
     has two frames. 
     
-  - Another nested file that fits on a smaller plate, like my Prusa MK3: [Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl](stl/face-shield/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl).
+  - Another nested file that fits on a smaller plate, like my Prusa MK3: [Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl](stl/face-shield/3-hole/version-2/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl).
     Print time: Prusa MK3: 3 hours, 4 minutes
 
 * Kasia Q mentioned using UV to sterilize the frames, so they could be reusable!
