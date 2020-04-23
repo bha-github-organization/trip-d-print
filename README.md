@@ -43,8 +43,8 @@ If you prefer a 6 hole version, the files are listed below:
 
   | File | Items Per Print | Print Time |
   |------|-----------------|------------|
-  | [US Six Hole Punch (version 4)](stl/face-shield/6-hole/version-5/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) | 1 |  |
-  | [US Six Hole Punch x 2 (version 4)](stl/face-shield/6-hole/version-5/2-Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) | 1 |  |
+  | [US Six Hole Punch (version 5)](stl/face-shield/6-hole/version-5/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) | 1 |  |
+  | [US Six Hole Punch x 2 (version 5)](stl/face-shield/6-hole/version-5/2-Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) | 1 |  |
 
 Original design files are by [Erik Cederberg](https://www.youmagine.com/erikcederb) from here: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
 
