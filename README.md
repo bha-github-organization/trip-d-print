@@ -26,19 +26,29 @@ Here's how the Face Shields look in action:
 
 We tried a number of different designs, and this one was the best balance of functionality and ease of production.
 
-I’m using the [US Three Hole Punch](stl/face-shield/3-hole/version-2/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) version (mostly because I own a 3 hole punch).
+I’m using the `US Three Hole Punch` style (mostly because I own a 3 hole punch).
 
-There is another "nested" file that prints 2 frames at once. We've tested the files below in the [stl](./stl) folder:
+There is a "nested" .stl file that prints 2 frames at once. The most updated design (version 4) prints faster and is
+easier to remove from the platter when the print is complete. We've tested the files below:
 
   | File | Items Per Print | Print Time |
   |------|-----------------|------------|
-  | [US Three Hole Punch](stl/face-shield/3-hole/version-2/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hour, 34 minutes |
-  | [US Three Hole Punch x 2](stl/face-shield/3-hole/version-2/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes<br>Lulzbot: 1 hour, 53 minutes |
-  | [Big Plate US Three Hole Punch X 2](stl/face-shield/3-hole/version-2/Lulzbot_Taz6_2FaceShields.stl) | 2 | Lulzbot: 2 hours, 10 minutes |
+  | [US Three Hole Punch (version 4)](stl/face-shield/3-hole/version-4/Visor_Frame_NORTH_AMERICA_letter_3-hole_v4.stl) | 1 |  |
+  | [~~US Three Hole Punch (version 3-obsolete)~~](stl/face-shield/3-hole/version-2/Visor_Frame_NORTH_AMERICA_LETTER_v2.stl) | 1 | Prusa MK3: 1 hour, 34 minutes |
+  | [US Three Hole Punch x 2 (version 4)](stl/face-shield/3-hole/version-4/2-Visor_Frame_NORTH_AMERICA_letter_3-hole_v4.stl) | 2 | Prusa MK3: 2 hours, 43 minutes |
+  | [~~US Three Hole Punch x 2 (version 3-obsolete)~~](stl/face-shield/3-hole/version-2/Nst2Visor_Frame_NORTH_AMERICA_LETTER_v2-nested.stl) | 2 | Prusa MK3: 3 hours, 4 minutes<br>Lulzbot: 1 hour, 53 minutes |
+  | [~~Big Plate US Three Hole Punch X 2 (version 3-obsolete)~~](stl/face-shield/3-hole/version-2/Lulzbot_Taz6_2FaceShields.stl) | 2 | Lulzbot: 2 hours, 10 minutes |
+
+If you prefer a 6 hole version, the files are listed below:
+
+  | File | Items Per Print | Print Time |
+  |------|-----------------|------------|
+  | [US Six Hole Punch (version 4)](stl/face-shield/6-hole/version-5/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) | 1 |  |
+  | [US Six Hole Punch x 2 (version 4)](stl/face-shield/6-hole/version-5/2-Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) | 1 |  |
 
 Original design files are by [Erik Cederberg](https://www.youmagine.com/erikcederb) from here: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
 
-To let you know what to expect, the frame takes about 1 hour, 34 minutes to print on my 
+To let you know what to expect, the obsolete version 3 frame takes about 1 hour, 34 minutes to print on my 
 [Prusa](https://www.prusa3d.com) MK3 printer.
 Whatever filament you have handy is fine. I've been using PETG.
 
@@ -80,7 +90,11 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
     *Set the end stop on the 3 hole punch to 10 inch size (basically, 1/2" away from the normal centered location) 
     then punch once, flip, and punch again to get the right pattern.*
     
-    I'll report back here with my findings.
+    The above trick to use a 3 hoel punch to create a 6 hole layout isn't working well for me. No level of hole 
+    adjustment nor transparency positioning seems to produce properly aligned holes. 
+    It is possible I'm "holding it wrong", but I also suspect my old 3 hole punch maybe be 
+    misaligned. I will try a different punch and see how it goes. Meanwhile, I've posted the 6 hole style files if you 
+    want to give it a try.
   
 ---------
 
