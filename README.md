@@ -90,7 +90,7 @@ If anyone can create a nested .stl file, please share it here (if you beat Mike 
     *Set the end stop on the 3 hole punch to 10 inch size (basically, 1/2" away from the normal centered location) 
     then punch once, flip, and punch again to get the right pattern.*
     
-    The above trick to use a 3 hoel punch to create a 6 hole layout isn't working well for me. No level of hole 
+    The above trick to use a 3 hole punch to create a 6 hole layout isn't working well for me. No level of hole 
     adjustment nor transparency positioning seems to produce properly aligned holes. 
     It is possible I'm "holding it wrong", but I also suspect my old 3 hole punch maybe be 
     misaligned. I will try a different punch and see how it goes. Meanwhile, I've posted the 6 hole style files if you 
